@@ -9,7 +9,7 @@ Usage:
 ```
 repos:
 - repo: https://github.com/maltzj/google-style-precommit-hook
-  rev: fc45bf791f5ac0d78fcdc3683c262ba77a6740ee
+  rev: 92a4ea0eeadcbe1ead98c07f3fbfe7828d2ffa18
     hooks:
       - id: maven-clean-test
 ```
