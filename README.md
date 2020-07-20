@@ -8,7 +8,7 @@ Usage:
 
 ```
 repos:
-- repo: https://github.com/maltzj/google-style-precommit-hook
+- repo: https://github.com/shoru-sssssaaaaaa/maven-test-precommit-hook
   rev: 111e2a8ea0fcd4e657df532d5e096643a5b1daa2
     hooks:
       - id: maven-clean-test
