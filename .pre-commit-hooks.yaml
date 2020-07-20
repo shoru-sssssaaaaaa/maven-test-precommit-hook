@@ -2,5 +2,5 @@
   name: Tests for Maven project
   description: Run mvn clean test
   entry: ./mavenCleanTest.sh
-  language: java
+  language: script
   file: \.java$
