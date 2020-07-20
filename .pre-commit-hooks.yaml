@@ -4,4 +4,3 @@
   entry: ./mavenCleanTest.sh
   language: script
   verbose: true
-  file: \.java$
