@@ -3,4 +3,5 @@
   description: Run mvn clean test
   entry: ./mavenCleanTest.sh
   language: script
+  verbose: true
   file: \.java$
